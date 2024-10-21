@@ -34,7 +34,7 @@ const AppMenu = () => {
         {
             label: 'Riesgo B2B',
             items: [
-                { label: 'Clientes1', icon: 'pi pi-fw pi-users', to: '/b2b/clientes', badge: 'NEW' },
+                { label: 'Clientesprueba', icon: 'pi pi-fw pi-users', to: '/b2b/clientes', badge: 'NEW' },
                 { label: 'Proyectos', icon: 'pi pi-fw pi-briefcase', to: '/b2b/proyectos'  }
             ]
         }
